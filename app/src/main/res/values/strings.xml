@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaLugares</string>
+    <string name="valorInicial">valorInicial</string>
+    <string name="tituloVentana">Lugares</string>
+</resources>
